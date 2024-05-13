@@ -2,7 +2,7 @@
 
 Seja bem-vindo! Este desafio foi projetado para avaliar a sua capacidade técnica como candidato.
 
-Crie um teste manual ou automatizado para a seguinte formulário:
+Crie um teste manual ou automatizado para o seguinte formulário:
 
 1. Acesse o site [Desafio Tester Júnior](https://tinyurl.com/desafioTesterSGE) (https://tinyurl.com/desafioTesterSGE)
 2. Preencha o formulário com os seguintes dados:
